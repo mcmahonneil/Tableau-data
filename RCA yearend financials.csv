@@ -1,0 +1,570 @@
+utility__name,utility__regulatory_status__name,utility__certificate,utility__utility_type__name,utility__eia_operator_id,utility__pce_id,fiscal_year,break_downs,fuel_stock,cash,repair_and_replace_fund,accounts_receivable,fixed_assets,total_utility_plant,total_assets,accounts_payable,source_of_debt,long_term_liabilities,total_liabilities,equity,other_subsidies,sales_revenue,other_revenue,gross_revenue,general_and_admin_expenses,operating_expenses,payroll_expenses,total_expenditures,employee_count,row_notes
+"Akhiok, City of",Not regulated,1,Public Electric Utility,,,2015,,103750,25955.13,,58924.51,,1000000,193180.04,0,,41000,41000,,,25813.1,,58474,501,156568.2,16142,173211.2,,
+"Akhiok, City of",Not regulated,1,Public Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+"Akhiok, City of",Not regulated,1,Public Electric Utility,,,2014,,,19356,,13219,,,32575.04,,,,,,,28347,,28347,42600,149782,10450,202832,,
+"Akhiok, City of",Not regulated,1,Public Electric Utility,,,2013,,,,,,,,,,,,,,,24207,,24207,,129420,2532,131952,,"[payroll_expenses: Center for Economic Development:
+Total Personel Expense]"
+Akiachak Native Community,Not regulated,1,Private Electric Utility,192,,2014,,413317,25009,10852.5,167984,1268719.2,1268270,1895281.76,2606,Bank/DR/BFL,175000,1895220,377708,0,963091,155445,1118536,111682,520489,193254,991298,4,"[total_expenditures: Steven Amundson:
+Utility did not sum up their expenses properly]"
+Akiachak Native Community,Not regulated,1,Private Electric Utility,192,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Akiachak Native Community,Not regulated,1,Private Electric Utility,192,,2013,,444101,28625,10383.75,271221,1381437.58,1381438,2126424.08,3478.01,Bank/DR,471349,2125412,250482.4,0,1151719,-442695,1151719,171765,47227.27,196270.04,581371,,
+Akiachak Native Community,Not regulated,1,Private Electric Utility,192,,2015,,,,11342.63,321254.37,1312152.28,,2087961.15,184.26,Bank/DR/BFL,1387581.5,1552557.66,535403.49,22564.02,703662,-26931,1197376,83275,157690,208063.26,1013695.57,5,"[gross_revenue: Nolan F Klouda:
+Added COGS back into revenue)]"
+Akiak City Council,Not regulated,1,Public Electric Utility,,,2014,,,,,,2888.73,,,,,,,,,291634,351,334247,21739,427143,123597,574970,,
+Akiak City Council,Not regulated,1,Public Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Akiak City Council,Not regulated,1,Public Electric Utility,,,2013,,,,,,,,,,,,,,,201634,446134,647768,333900,569902,122093,1025895,,
+Akiak City Council,Not regulated,1,Public Electric Utility,,,2015,,,,,,,,,,,,,,,,,,,,,521455.2,,
+"Akutan, City of",Not regulated,1,Public Electric Utility,24486,,2014,,14620,,,8316,,2741214,2746150,27948,,650829,680967,2083183,41901,136832,300000,2015029,107423,236103,196486,696615,,
+"Akutan, City of",Not regulated,1,Public Electric Utility,24486,,2016,,10678,22335,,6895,,2035307,2075215,2636,,,8022,2067193,42531,121341,300000,463872,21620,203533,223335,586935,,
+"Akutan, City of",Not regulated,1,Public Electric Utility,24486,,2013,,14203,,0,13177,,2253083,2280463,9188,,828942,839802,1440661,40065,97590,372602,510257,29387,234550,,518267,,
+"Akutan, City of",Not regulated,1,Public Electric Utility,24486,,2015,,10678,21066,,3978,,2173755,2209477,10085,,,17722,2191755,1098,111121,316371,428590,20950,190202,217299,566898,,
+Alaska Power & Telephone Company,Regulated,1,Private Electric Utility,219,,2014,,1025338,3740039,,5185328,,189121711,26260876,283285,,75000000,5629910,100211419,,44331913,,44858306,,18609616,10441172,33586305,,
+Alaska Power & Telephone Company,Regulated,1,Private Electric Utility,219,,2016,,1015531,3504851,,5905366,,200140335,263486118,906045,,74221480,8533986,109715716,,42497083,,42978106,,18399014,10906052,32420118,,
+Alaska Power & Telephone Company,Regulated,1,Private Electric Utility,219,,2013,,993334,13362864,,2995390,,120629767,218557600,614466,,111140042,2550468,92403652,,42066901,,42582909,,18895173,10574097,32808125,,
+Alaska Power & Telephone Company,Regulated,1,Private Electric Utility,219,,2015,,978962,3781662,,5487038,,192252805,269683023,310760,,75000000,5849372,104347335,,41322431,,41819985,,18513049,10468402,31856560,,
+Alaska Village Electric Cooperative,Not regulated,1,Electric Co-op,221,,2014,,,,,8343001.56,,64426240.77,126817817.6,1657684.05,,53858517.57,126817817.6,,,,,,3078979.25,41515624.32,2236675.03,,,"[accounts_receivable: Center for Economic Development:
+Sale of Electricity (net)], [total_assets: Center for Economic Development:
+Total Assets and other Debits], [long_term_liabilities: Center for Economic Development:
+Total Long Term Debt], [total_liabilities: Center for Economic Development:
+Totla Labilities and other credits], [equity: Center for Economic Development:
+4,707,633 -Patronage capital or margins], [sales_revenue: Center for Economic Development:
+Operating Revenue and Patronage Capital 53,815,853,.92], [operating_expenses: Center for Economic Development:
+cost of purchased power +power production expense + distribution expense (operation and maintenance)], [payroll_expenses: Center for Economic Development:
+Admin and General Salaries], [total_expenditures: Center for Economic Development:
+Total Operationa and maintenance expense]"
+Alaska Village Electric Cooperative,Not regulated,1,Electric Co-op,221,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Alaska Village Electric Cooperative,Not regulated,1,Electric Co-op,221,,2013,,,,,4176435.13,,132352737.1,,644167.77,,,,,,,,,2899721,,2110382.62,,,"[accounts_receivable: Center for Economic Development:
+Customer Accts Rec - Electric], [long_term_liabilities: Center for Economic Development:
+There is a listing of payments made and recipts but no bottom line.]"
+Alaska Village Electric Cooperative,Not regulated,1,Electric Co-op,221,,2015,,,,,7810428.27,,66840932.55,,2263656.65,,50886803.47,122301754.8,,,,,,,44788469.85,2522791.65,,,"[equity: Center for Economic Development:
+3,951,497.19 Patronage or Margins], [sales_revenue: Center for Economic Development:
+Operating Revenue and Patronage Capital 58,642,289.82], [operating_expenses: Center for Economic Development:
+ibid], [total_expenditures: Center for Economic Development:
+nonfuel cost pluss consumed fuel costs]"
+Alutiiq Power Company,"Regulated, rate exemption",1,Private Electric Utility,,,2014,,131265,,,16649.66,0,0,135884.76,80320.19,,,80320.19,55564.57,40400,142040.4,40400,182420.4,4155.01,107471.34,41641.46,154109.6,,"[total_utility_plant: Center for Economic Development:
+Same as above]"
+Alutiiq Power Company,"Regulated, rate exemption",1,Private Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Alutiiq Power Company,"Regulated, rate exemption",1,Private Electric Utility,,,2013,,100614.15,,,32700.68,0,0,124317,135334.06,,126.47,135460.53,-11142.96,6380,194683.12,3680,201063.12,2269.28,130940.31,39822.98,174583,,"[total_utility_plant: Center for Economic Development:
+97,500 Plant in Service
+97,500 Accumulated  depreciation and amoritization]"
+Alutiiq Power Company,"Regulated, rate exemption",1,Private Electric Utility,,,2015,,62516,,,14429,,0,89017.39,55801,,,55801,11813,4287,129404,,133691,656,78310,51447,131832,,"[total_utility_plant: Center for Economic Development:
+Same as above]"
+Aniak Light & Power,Regulated,1,Private Electric Utility,4959,,2015,5,189893,813503,,144531,,833750,2067467,9030,,168660,432632,1634835,,1557251,,1557251,,1033940,142514,1450754,3,
+Aniak Light & Power,Regulated,1,Private Electric Utility,4959,,2014,4,156881,973094,,119039,,585519,1865896,2139,,,267069,1543420,,1561636,,1561636,,969008,141269,1446020,3,"[cash: Center for Economic Development:
+Cash and Cash Equivelents ]"
+Aniak Light & Power,Regulated,1,Private Electric Utility,4959,,2016,12,246864,691829,,88636,,839487,2004157,0,,130113,382711,1621445,,1390574,,1390574,,912175,149769,1395051,3,"[sales_revenue: Steven Amundson:
+Net Operating Revenue]"
+Aniak Light & Power,Regulated,1,Private Electric Utility,4959,,2013,13,132152,783308,,1119039,,696847,1744614,9333,,,240661,1444004,,1593321,124,1593321,,1110635,178417,1605176,4,"[fuel_stock: Center for Economic Development:
+gas stored underground], [accounts_receivable: Center for Economic Development:
+Return to later.  Data is all jacked up], [total_liabilities: Center for Economic Development:
+Total libalities and other Credits.  ""Total Current and Accrued Liabilities"" amount is ], [equity: Center for Economic Development:
+Total Propriatary Capital], [operating_expenses: Center for Economic Development:
+Total Production Expense], [payroll_expenses: Center for Economic Development:
+Wages + Insurance], [total_expenditures: Center for Economic Development:
+Total Utility Operating Expense], [employee_count: Center for Economic Development:
+From Officers Compensation.  Does not mention pay of any line staff.]"
+Arctic Village Electric Company,,1,Electric Co-op,,,2014,,,32335,,,,86748,159150,,,,,,,215097,,215097,26623,,55744,375427,4,
+Arctic Village Electric Company,,1,Electric Co-op,,,2016,,,154969,,,,126757,154969,,,,,,,410554,,410554,29256,285823,109815,467135,10,"[sales_revenue: Center for Economic Development:
+PCE included in sales revenue]"
+Arctic Village Electric Company,,1,Electric Co-op,,,2013,,,,,142157,,,142157,,,,,142157,,184011,,184011,11247,291564,28361,333883,5,
+Arctic Village Electric Company,,1,Electric Co-op,,,2015,,,83254,,,,137038,260384,,,,,260348,,351763,,351763,41798,276304,70381,398765,10,"[sales_revenue: Center for Economic Development:
+PCE included in sales revenue]"
+"Atka, City of",Not regulated,1,Public Electric Utility,56256,,2014,,233437,,,,,7291386,7524853.4,,,684049,684049,6840804,,210463,,210463,16731,117803,45513,419946,,
+"Atka, City of",Not regulated,1,Public Electric Utility,56256,,2013,,178868,,,,,6447519,6626387,,,729202,729202,5897185,,240887,,240887,15918,163447,47645,214134,9,
+"Atka, City of",Not regulated,1,Public Electric Utility,56256,,2016,,,,,,,5845597,5845597,,,621198,621198,5224339,,279339,,,,52441,51877,344108,,
+"Atka, City of",Not regulated,1,Public Electric Utility,56256,,2015,,,,,,,6042877,6042887,,,660053,660053,5382824,,245470,58763,,,200920,66252,519631,,
+Atmautluak Tribal Utilities,Not regulated,1,Private Electric Utility,878,,2015,,6745,20000,,,,19013,45758,,,,,,,400792,,400792,19698,251828,99101,370627,8,
+Atmautluak Tribal Utilities,Not regulated,1,Private Electric Utility,878,,2013,,6754,75987,,,,23923,106664,,,79865,79865,26799,,362352,,362352,36301,259599,60788,353076,4,
+Atmautluak Tribal Utilities,Not regulated,1,Private Electric Utility,878,,2014,,4356,25000,,,,24468,50824,,,50824,50824,,,364832,,364823,21796,209890,110066,341752,,
+Atmautluak Tribal Utilities,Not regulated,1,Private Electric Utility,878,,2016,,95519,49406,,,,16740,162665,,,71749,71749,,,403040,,403040,31400,194182,79823,305405,10,
+Beaver Joint Utilities,Not regulated,1,Private Electric Utility,,,2013,,,,,112307.97,,,112357.97,,,,,,40767.68,111688.79,45897.84,198353.47,8300,163884.17,63085.59,112357.97,,"[fuel_stock: Center for Economic Development:
+Mentions max capacity of fule tanks but not present value of fuel], [other_subsidies: Center for Economic Development:
+Appears they recorded the PCE as Grants and on Schedule A], [other_revenue: Center for Economic Development:
+Schedue A improperly filled out so it would look like they double counted income. This is what is reported on the Income Statement], [gross_revenue: Nolan F Klouda:
+Calculated based on schedule A, removing fuel expenses improperly recorded under revenues.]"
+Beaver Joint Utilities,Not regulated,1,Private Electric Utility,,,2014,,,,,140702.31,,49603.24,170702.31,128677.49,,,269378.8,,,140702.31,,175042.91,12365.07,31212.87,57040.2,234803.98,,"[employee_count: Center for Economic Development:
+Pay stubs appear to be for the whole village counsel.]"
+Beaver Joint Utilities,Not regulated,1,Private Electric Utility,,,2015,,,,,,,,,,,,,,,,,,,,,,,
+Beaver Joint Utilities,Not regulated,1,Private Electric Utility,,,2016,,,,,,,,,,,,,,,234406.17,,,,,73535.33,,,"[sales_revenue: Center for Economic Development:
+
+Form not completed properly.  Revenue not summed.], [other_revenue: Center for Economic Development:
+Form not properly filled out.], [payroll_expenses: Center for Economic Development:
+Form not completed properly, Personnel Expenses not Summed], [total_expenditures: Center for Economic Development:
+Figures not summed.], [employee_count: Center for Economic Development:
+Appears to be whole village counscil]"
+"Buckland, City of",Not regulated,1,Public Electric Utility,,,2013,,89682.25,,,265658.52,,,566197.92,320,,,448935.81,117262.11,,624833.86,,624834,48822,649410,18474.25,698232.01,,"[payroll_expenses: Center for Economic Development:
+Administratoin+payroll expense+payroll taxes]"
+"Buckland, City of",Not regulated,1,Public Electric Utility,,,2014,,729197.32,,,128315.7,,,1479697.32,,,,818115.09,661582.23,,739649.21,,739649,56472,592187,31113.08,648658.49,,
+"Buckland, City of",Not regulated,1,Public Electric Utility,,,2015,,209326.74,,,,,,1299679.14,,,,,,,744827.25,,774827.25,39942,790878,21748,830820.47,,"[payroll_expenses: Center for Economic Development:
+administratoin]"
+"Buckland, City of",Not regulated,1,Public Electric Utility,,,2016,,,,,,,,,,,,,,,765782,,765782,60672,611519,44291.54,672191.25,,"[payroll_expenses: Center for Economic Development:
+administratoin + admin Payroll exp + Admin pr tax expense]"
+Chenega Ira Council,"Regulated, rate exemption",1,Private Electric Utility,,,2015,,29739,,,2450,,418490,450948.77,655,,,664,,,147469,99146,147469,14563,116534,28831,191110,4,"[other_revenue: Center for Economic Development:
+""Power Sales"" on Schedule A]"
+Chenega Ira Council,"Regulated, rate exemption",1,Private Electric Utility,,,2013,,19869,81302,,8117,,480426,589713.77,19460,,,19460,,,150418,,150418,10332,149024,14338,173694,,
+Chenega Ira Council,"Regulated, rate exemption",1,Private Electric Utility,,,2014,,17746,,,3840,,449672,471777.91,665,,,665,,,144.73,103740.19,144730,9600,149062,10935,188720,3,"[other_revenue: Center for Economic Development:
+Listed on Schedue A Revenue but not ""other revenue"" in income statement.  Is not equal to power sales.]"
+Chenega Ira Council,"Regulated, rate exemption",1,Private Electric Utility,,,2016,,,,,,,,,,,,,,,166063,5,166063,15999,162856,15390,181173,,
+"Chignik, City of",Not regulated,1,Private Electric Utility,3421,,2016,,,,,,,,,,,,,,,,,,,,,,,
+"Chignik, City of",Not regulated,1,Private Electric Utility,3421,,2013,,34493,,6173.97,,,482921,580118.13,,,157139,161839,395698,,448139,2752,447891,13630,325593,83034,458446,,
+"Chignik, City of",Not regulated,1,Private Electric Utility,3421,,2014,,111887,,43173.97,,,510013,675315.61,,,264560,269315.61,406055,,404126,709,404126,22217,279529,84283,386029,,
+"Chignik, City of",Not regulated,1,Private Electric Utility,3421,,2015,,41523,,,,,513001,586272.74,,,,256866,329407,,338401,1893,340240,39420,208034,103567,399710,,
+Chignik Lagoon Power Utility,"Regulated, rate exemption",1,Private Electric Utility,,,2013,,,,,,82687.44,,-603530.91,,,,19957.26,-623488.17,,166112,16539,182651,19114,298533,48112,365759,,
+Chignik Lagoon Power Utility,"Regulated, rate exemption",1,Private Electric Utility,,,2014,,,10683.52,,-1316.8,82687.44,,-849034.31,19957.26,,,19957.26,-868991.57,,181771,71760,253532,6303,235483,18710,260497,,"[cash: Center for Economic Development:
+""Savings Special Funds""]"
+Chignik Lagoon Power Utility,"Regulated, rate exemption",1,Private Electric Utility,,,2015,,,,,-35135.62,82687.44,,180054.98,19957.26,,,19957.26,160097.72,,175868,49245,225112,8733,168814,27281,204828,,
+Chignik Lagoon Power Utility,"Regulated, rate exemption",1,Private Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Chignik Lake Electric Utility,Not regulated,1,Private Electric Utility,,,2014,,,,,,,,,,,,,,,157457,,157457,19449,290632,27728,347559,3,
+Chignik Lake Electric Utility,Not regulated,1,Private Electric Utility,,,2015,,5000,,,,,15777,5000,,,,,,,262402,,262402,23869,181537,80010,286835,6,"[fuel_stock: Center for Economic Development:
+Uncertain if dollars of gallons]"
+Chignik Lake Electric Utility,Not regulated,1,Private Electric Utility,,,2016,,15000,,,,,14359,15000,,,,,,,233480,,233480,18983,233480,26389,229528,,
+Chignik Lake Electric Utility,Not regulated,1,Private Electric Utility,,,2013,,,,,,,898,988.57,,,,,,,254831,25604,280435,31408,333693,48839,411763,1,"[other_revenue: Center for Economic Development:
+""Wastheat In-Kind.""  First time I have seen this entry.]"
+Chitina Electric Inc,Not regulated,1,Private Electric Utility,3465,,2014,,29898,44511,,52304,,2678876,2801191.14,1257,,,4867,2796324,,202117,48839,250956,24682,164342,45151,235357,,
+Chitina Electric Inc,Not regulated,1,Private Electric Utility,3465,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Chitina Electric Inc,Not regulated,1,Private Electric Utility,3465,,2015,,25441,116878,,26060,2580049.7,2573347,2752146,729,,,-5874,2752246,,221144,61384,282528,29348,164172,45760,222311,,
+Chitina Electric Inc,Not regulated,1,Private Electric Utility,3465,,2013,,19519,27583,,56854,,2784029,2902599,744,,,5963,2869636,,216744,68498,285242,25027,193416,47427,267132,,
+Circle Electric Utility,Not regulated,1,Private Electric Utility,,,2013,,,162,,52794,,165585,463435.25,263603,,98079,36354,99891,,283232,6716,289948,19497,186483,67717,290254,3,
+Circle Electric Utility,Not regulated,1,Private Electric Utility,,,2014,,,18979,,48942,,152995,428955.75,30926,,342285,373660,55295,,275751,2146,277897,22708,193857,65538,298741,,
+Circle Electric Utility,Not regulated,1,Private Electric Utility,,,2015,,,2095,,35587,,156938,368455.37,,,342404,324804,43652,,254614,1510,256124,40910,136966,136966,258334,,
+Circle Electric Utility,Not regulated,1,Private Electric Utility,,,2016,,,12120,,19568,,155709,331263.37,,,,150,331113,,229818,1100,230918,32832,119477,66368,229496,,
+"Clark's Point, City of",Not regulated,1,Public Electric Utility,,,2013,,,,,,,,,,,,,,,,,,,,,,,
+"Clark's Point, City of",Not regulated,1,Public Electric Utility,,,2014,,53511,,,,,-428360,-374849.44,53525,,,53525,,,17433,,,,56746,3653,60116,,"[total_utility_plant: Center for Economic Development:
+Figure is listed as negative on the report]"
+"Clark's Point, City of",Not regulated,1,Public Electric Utility,,,2015,,5000,25000,,,,11800,30000,,,,37487,-7487,,122790,,122790,16236,120482,19865,162483,,"[fuel_stock: Center for Economic Development:
+May be gallons as other villages have written in 5,000 fuel tank here]"
+"Clark's Point, City of",Not regulated,1,Public Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Cordova Electric Cooperative,Not regulated,1,Electric Co-op,40215,,2015,,45223,1617068,,458722,,26794325,32470501,244350,,15602755,16411060,16059441,,7115613,378807,7494420,1019635,4221109,1566216.62,6598624,,
+Cordova Electric Cooperative,Not regulated,1,Electric Co-op,40215,,2013,,25900,1466892,,435870,,26753957,32421534,1299654,,16525012,18459063,13962471,,8139025,392866,8531891,1156394,5219447,307867.9,7845412,,"[payroll_expenses: Center for Economic Development:
+""Accured Payroll"" PeriodDebits]"
+Cordova Electric Cooperative,Not regulated,1,Electric Co-op,40215,,2014,,60417,1282375,,485260,,26981931,32368075,835137,,15763575,17175944,15192761,,7858148,383386,8241534,1119757,4399915,1660733.81,7005237,,"[payroll_expenses: Center for Economic Development:
+""Accured Payroll"" PeroidDebits]"
+Cordova Electric Cooperative,Not regulated,1,Electric Co-op,40215,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Egegik Light & Power Co,Not regulated,1,Public Electric Utility,57351,,2015,,,981292,,20898,,,1002189.79,,,1016846,1027951,-25761,,523467,14160,537627,25670,278250,70918,423383,,
+Egegik Light & Power Co,Not regulated,1,Public Electric Utility,57351,,2013,,,,,,,,,,,,,,,489632,67331,556982,79998,273707,72454,466845,,"[other_revenue: Center for Economic Development:
+Another Faility that reports waste heat in kind.]"
+Egegik Light & Power Co,Not regulated,1,Public Electric Utility,57351,,2014,,,751831,,3170,,,783501.65,65860,,616846,700129,83373,32699,538331,17412,588432,41636,297382,57256,438609,,
+Egegik Light & Power Co,Not regulated,1,Public Electric Utility,57351,,2016,,,,,10483,,,10482.91,,,,11105,,,369789,8723,378512,69387,171434,55850,347156,,
+Elfin Cove Utility Commission,Not regulated,1,Electric Co-op,5721,,2013,,,,,,,,,,,,,,,,,,,,,,,
+Elfin Cove Utility Commission,Not regulated,1,Electric Co-op,5721,,2014,,519,73560,,32090,,,116169,19,,,5219,,,155905,28763,184980,17192,130142,26612,173945,,
+Elfin Cove Utility Commission,Not regulated,1,Electric Co-op,5721,,2015,,419,103808,,33886,,,148112,6369,,,11569,,,163929,28763,191604,12950,26101,127953,167003,,
+Elfin Cove Utility Commission,Not regulated,1,Electric Co-op,5721,,2016,,385,128612,,29492,,,168989,,,,6100,,,154818,29350,184168,13557,119119,23682,156358,,
+"False Pass, City of",Not regulated,1,Public Electric Utility,,,2016,,124971,492576,,,,168255,786750,,,,,786750,94612,186075,,280687,3001,224968,14247,255500,,
+"False Pass, City of",Not regulated,1,Public Electric Utility,,,2013,,153601,256213,,,,78367,491927,,,,,491927,138558,210506,88000,369772,27581,22123,22123,270904,,
+"False Pass, City of",Not regulated,1,Public Electric Utility,,,2014,,27009,467331,,,,122033,619090,,,,,619090,,248660,88255,434770,2534,,37728,307607,,
+"False Pass, City of",Not regulated,1,Public Electric Utility,,,2015,,80484,498980,,,,181287,761383,,,,,761383,116960,209220,88000,512283,4342,349726,23275,390828,,
+"Galena, City of",Not regulated,1,Public Electric Utility,6915,,2013,,,1500704.12,,398276.51,169.28,,1921062.55,-352.89,BFL,-80200,418332.31,977554.31,,2358897.96,113191.82,,,3830119.85,383019.85,117542.52,,"[sales_revenue: Center for Economic Development:
+Includes Water, Sewage, and Solod Waste as the utility coded it that way on the P&L], [total_expenditures: Steven Amundson:
+Utility did not sum expenditures properly]"
+"Galena, City of",Not regulated,1,Public Electric Utility,6915,,2015,,,,,,,,,,,,,,,,,,,,,,,
+"Galena, City of",Not regulated,1,Public Electric Utility,6915,,2016,,386946,148420,,239256,,3395010,4133574,272972,,1377377,1704799,2428775,,2978474.37,1406.56,,,,543425.22,3189213.67,,"[sales_revenue: Center for Economic Development:
+""Electiuc Revenue"" on P&L], [total_expenditures: Steven Amundson:
+COGS + other expenses + Total Expense]"
+"Galena, City of",Not regulated,1,Public Electric Utility,6915,,2014,,,918699,,5146.4,,1096004,2014709.58,748201,,,860960,,,2902729,0,2902729,73084,1978941,543437,2835459,11,
+Gold Country Energy,Regulated,1,Private Electric Utility,56739,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Gold Country Energy,Regulated,1,Private Electric Utility,56739,,2014,,,,,,,,,,,,,,,,,,,,,,,
+Gold Country Energy,Regulated,1,Private Electric Utility,56739,,2015,,,,,,,,,,,,,,,,,,,,,,,
+Gold Country Energy,Regulated,1,Private Electric Utility,56739,,2013,,,,,,,,,,,,,,,,,,,,,,,
+Golovin Power Utilities,Not regulated,1,Public Electric Utility,,,2016,,,325387,,65379,,,,1106,,,417189.24,,,325241,104579,429821,12334,251365,69946,251365,,"[repair_and_replace_fund: Center for Economic Development:
+$24,000 debited and then credited but no final balance.]"
+Golovin Power Utilities,Not regulated,1,Public Electric Utility,,,2013,,,25248,11100,13883,,,39130,13883,,,13883,168412,19165,317868,128053,445922,13867,338570,72928,425365,4,"[accounts_payable: Center for Economic Development:
+Not a typo:  Accounts recievable are equal to Accounts Payable.]"
+Golovin Power Utilities,Not regulated,1,Public Electric Utility,,,2014,,,119127,,127767,,,246893.33,1218,,,1218,245676,,364840,95654,460494,12339,348634,63624,424597,,"[repair_and_replace_fund: Center for Economic Development:
+$8050 spent on R&R but no indication of fund level]"
+Golovin Power Utilities,Not regulated,1,Public Electric Utility,,,2015,,,225024,,60659,,,285683.12,185824,,,185824,99859,,318315,92086,410401,12259,286617,68042,366918,,"[repair_and_replace_fund: Center for Economic Development:
+Indicates 12,000 spent from R &R but not current level]"
+Hughes Power & Light,Not regulated,1,Public Electric Utility,9000,,2015,,7800.95,84120.59,,29293.01,,,,,,,,441756.87,,222642.45,346.48,,,,36732.65,339825.94,,"[fuel_stock: Center for Economic Development:
+ibid]"
+Hughes Power & Light,Not regulated,1,Public Electric Utility,9000,,2013,,7800.95,58162.91,,50552.13,,,,,,,,441756.87,,226085.23,52.49,,,,59491.73,422030.28,,"[fuel_stock: Center for Economic Development:
+""Total Fuel inventory""], [sales_revenue: Center for Economic Development:
+""Customer payments"" on P&L.], [other_revenue: Center for Economic Development:
+Uncatoragorized Income and Money Market interest earnings.], [operating_expenses: Center for Economic Development:
+For review], [payroll_expenses: Center for Economic Development:
+Sum of Payroll Expense, Payroll Taxes, and Work Comp Liabilites form P&L.]"
+Hughes Power & Light,Not regulated,1,Public Electric Utility,9000,,2014,,7800.95,93184.86,,82885.31,,,,,,,,441756.87,,229990.6,43.92,,,,64681.8,345107.96,,"[fuel_stock: Center for Economic Development:
+ibid], [equity: Center for Economic Development:
+Balance the same as previous year.]"
+Hughes Power & Light,Not regulated,1,Public Electric Utility,9000,,2016,,7800.95,161516.02,,125023.68,,,,,,,,441756.87,,256275.05,967.08,,,,193717.58,287646.32,,"[fuel_stock: Center for Economic Development:
+ibid]"
+Igiugig Electric Company,"Regulated, rate exemption",1,Private Electric Utility,9192,,2015,,,5514,,22686,,1348321,1376521,114775,,,114775,1261746,,208921,,208921,1574,203081,20158,224812,,
+Igiugig Electric Company,"Regulated, rate exemption",1,Private Electric Utility,9192,,2013,,,65166,,15541,,1442687,1424633,99760,,,99760,1424633,,212239,4262,216501,7952,234241,16386,258579,,
+Igiugig Electric Company,"Regulated, rate exemption",1,Private Electric Utility,9192,,2014,,,58483,,36436,,1395513,1490432,147496,,,147496,1342936,,210640,3451,214092,12515,237024,17129,266667,,
+Igiugig Electric Company,"Regulated, rate exemption",1,Private Electric Utility,9192,,2016,,,,,,,,,,,,,,,209997,2702,214699,19612,4702,36234,236704,,
+"I-N-N Electric Coop, Inc",Not regulated,1,Electric Co-op,9188,,2015,,119652,3887213,,132953,,6877424,11488683.59,0,,3764815,6481511,5007173,,1272448,68208,1340657,292226,233879,240530,1229036,,"[long_term_liabilities: Center for Economic Development:
+The amount shown is on the RCA form.
+
+The General Ledger has the amount of 6,480,946.38]"
+"I-N-N Electric Coop, Inc",Not regulated,1,Electric Co-op,9188,,2013,,147185.23,120967,,163521,,10504895,8819398,15862,,2832900,4075537.49,4706166,401983,1507712,,1507712,,1075961,,1075961,,"[fuel_stock: Center for Economic Development:
+Fuel Inventory], [long_term_liabilities: Center for Economic Development:
+Net Long Term Debt], [sales_revenue: Center for Economic Development:
+Operating Revenues]"
+"I-N-N Electric Coop, Inc",Not regulated,1,Electric Co-op,9188,,2014,,137425.56,154480.06,,129052.17,,,11546014.93,,,3939813.14,6649975.21,4896039.72,,1353285.72,,,,,,1089272.81,5,"[cash: Center for Economic Development:
+Sum of Cash NBA Chekcing 4947, Cash on hand, and Commperial paper, roll over.], [accounts_receivable: Center for Economic Development:
+Customer Accounts Recievable+ Other AR], [long_term_liabilities: Center for Economic Development:
+sum of loans:
+4001,
+4003,
+9004,
+9003.], [sales_revenue: Center for Economic Development:
+sum of Residentail Sales, Commerical Sales, Residentail Surcharge, Commerical Surcharge, and Late Fees for Year To Date], [employee_count: Center for Economic Development:
+List 5 different people under ""Director Expenses""]"
+"I-N-N Electric Coop, Inc",Not regulated,1,Electric Co-op,9188,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Inside Passage Electric,Regulated,1,Electric Co-op,18963,,2016,,223961,347564,,749697,,9517705,12719874,213496,,3516383,2629541,6723549,,4306000,,4509001,,3657462,1066392,3885356,26,
+Inside Passage Electric,Regulated,1,Electric Co-op,18963,,2014,,430359,1046189,,507976,,8014147,11862142,177599,,4149675,637320,3449695,,5536000,,5759039,,4747448,1049268,5103722,20,
+Inside Passage Electric,Regulated,1,Electric Co-op,18963,,2013,,494800,580070,,538741,,8014147,11599919,166960,,4149698,645552,6244858,,6026000,,6072371,,4970046,925335,5262682,19,"[long_term_liabilities: Center for Economic Development:
+Outstanding], [equity: Center for Economic Development:
+Proprietary Capital], [sales_revenue: Center for Economic Development:
+Revenue from MWH sold.  Expressed in hundred thousands.`], [payroll_expenses: Center for Economic Development:
+""Total Salaries and Wages""], [total_expenditures: Center for Economic Development:
+Data from Operation & Maint P form ], [employee_count: Center for Economic Development:
+Operation & Maint P]"
+Inside Passage Electric,Regulated,1,Electric Co-op,18963,,2015,,219579,756655,,426884,,9392188,12590674,114310,,3837056,2175479,6591377,,4980000,,4860161,,4047684,995763,4353799,26,
+Ipnatchiaq Electric Company,Not regulated,1,Private Electric Utility,9416,,2013,,,,76289,43837.83,,,,,,,,,29185,452976,12086,494247,69543,280161,83657,443247,6,
+Ipnatchiaq Electric Company,Not regulated,1,Private Electric Utility,9416,,2014,,,79281,,26123,,,105403.92,,,,,,210000,345759,1750,555759,26979,306649,78355,411982,,
+Ipnatchiaq Electric Company,Not regulated,1,Private Electric Utility,9416,,2015,,,,,132498.26,,,-5470.27,,,,59009.53,-64479.03,,348470,,348470,37225,271221,42084,353778,,
+Ipnatchiaq Electric Company,Not regulated,1,Private Electric Utility,9416,,2016,,,51350.12,,-284499.79,,,-197597.08,,,,,-197564.57,175071,365257,5440,536768,36838,261676,141991,440505,,"[other_subsidies: Center for Economic Development:
+Deering may have recorded all PCE as grants]"
+"King Cove, City of",Not regulated,1,Public Electric Utility,9897,,2016,,123712,165818,,26175,,5735319,7797200,53638,,2105000,2188754,,3013218,1137410,,4150628,21951,576239,354784,1171476,,"[other_subsidies: Center for Economic Development:
+Schedule A ""Grant funds towards WIP.""]"
+"King Cove, City of",Not regulated,1,Public Electric Utility,9897,,2013,,,,,,,,,11434,,454085,1323002,,,1239395,69087,1308482,30775,800917,245906,1432840,,
+"King Cove, City of",Not regulated,1,Public Electric Utility,9897,,2014,,,3255.35,,90646.61,,,,,,,,5555071.64,,1156869,82739,1238608,17670,679429,239490,1264207,,
+"King Cove, City of",Not regulated,1,Public Electric Utility,9897,,2015,,,,,54133,,6840945,7067247,138008,,,7067249,,86414,1262556,,,,,212311,1070233,,"[total_utility_plant: Center for Economic Development:
+""net property, plant, and equipment], [total_liabilities: Center for Economic Development:
+Total Liabilities, defered inflows of resources], [sales_revenue: Center for Economic Development:
+Operating Revenue], [payroll_expenses: Center for Economic Development:
+sum of salaries, employee benefits and insurance.], [total_expenditures: Center for Economic Development:
+Total Operating Expenses]"
+Kipnuk Light Plant,Regulated,1,Private Electric Utility,,,2013,,,19784,,371431,,70089,343760,-26196,,,413851,,,658823,9667,658823,,349713,150871.21,361577,12,"[sales_revenue: Center for Economic Development:
+Operating Revenue]"
+Kipnuk Light Plant,Regulated,1,Private Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Kipnuk Light Plant,Regulated,1,Private Electric Utility,,,2015,,,269175,,335184,,78899,403559,54054,BFL,,482457,,,549189,806,549189,,346307,155332,370608,14,
+Kipnuk Light Plant,Regulated,1,Private Electric Utility,,,2014,,101686.64,33587,,346343,58575.51,58576,285733,28439,BFL,,344309,-117333.33,,412806,-1981,412806,,346387,157140,361366,14,"[fuel_stock: Center for Economic Development:
+Fuel inventory ]"
+Kokhanok Village Council,"Regulated, rate exemption",1,Public Electric Utility,10455,,2015,,5000,68000,,,,38738,73000,,,127332,128534,,,321172,,321172,21704,174970,119760,316374,,"[fuel_stock: Center for Economic Development:
+Probably gallons]"
+Kokhanok Village Council,"Regulated, rate exemption",1,Public Electric Utility,10455,,2013,,56131,22665,,11880,,65048,90676,,,,,90676,,344628,156,344784,11347,222312,76592,325239,9,
+Kokhanok Village Council,"Regulated, rate exemption",1,Public Electric Utility,10455,,2014,,6000,,,,,39282,6000,,,,,,,282255,,282255,40377,296495,44973,382294,2,"[fuel_stock: Center for Economic Development:
+Mihgt be gallons]"
+Kokhanok Village Council,"Regulated, rate exemption",1,Public Electric Utility,10455,,2016,,176847,26541,,,,29852,233240,,,,,233240,,194867,95752,290619,16883,163634,95365,285273,,
+Kotzebue Electric Association,Not regulated,1,Electric Co-op,10451,,2013,,4781916,253969,,2184528,,12663846,23376855,93379,bank,10631019,5475419,6767917,,9080046,,8809235,1145190.51,8573061,,8573061,,"[long_term_liabilities: Center for Economic Development:
+Net long Term Debt], [total_liabilities: Center for Economic Development:
+Kotzebue does not show Total  Liabilities, but Total Current Liabilities, which only includes one year od Debt], [sales_revenue: Center for Economic Development:
+Operating Revenue], [operating_expenses: Center for Economic Development:
+Power Production Operations], [total_expenditures: Center for Economic Development:
+Total Operating Expense]"
+Kotzebue Electric Association,Not regulated,1,Electric Co-op,10451,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Kotzebue Electric Association,Not regulated,1,Electric Co-op,10451,,2014,,5039041,870515,,1534988,,11781385,22077182,214064,bank,9875002,5585092,6617008,,8141802,,8141802,1155706.67,4953123,,8105030,,
+Kotzebue Electric Association,Not regulated,1,Electric Co-op,10451,,2015,,4150274,320790,,1548184,,11702377,21923154,145221,bank,9576081,5638336,6708737,,8333700,,8333700,1127945.44,4701035,,8096263,,
+"Koyukuk, City of",Not regulated,1,Public Electric Utility,,,2013,,14117,13813,,15415,,11349,54693.78,,,,25080,29614,,191799,,191799,7020,137100,37180,193477,7,
+"Koyukuk, City of",Not regulated,1,Public Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+"Koyukuk, City of",Not regulated,1,Public Electric Utility,,,2015,,,,,15570.54,,8422,8422,,,,,8422,,117382,,117382,10726,142135,29686,190642,8,
+"Koyukuk, City of",Not regulated,1,Public Electric Utility,,,2014,,185500,34655,,12677,,8442,241243.8,,,,,141442,,155365,,155356,10726,142135,18134.91,168634,6,"[payroll_expenses: Center for Economic Development:
+RCA form does not report this, it is on an attached Payroll Summary]"
+Kwethluk Incorporated d/b/a Kuiggluum Kallugvia,Not regulated,1,Private Electric Utility,9832,,2014,,,,,309,,,,,,,,,,660552,4100,664652,16755,521088,96128,633972,,"[sales_revenue: Center for Economic Development:
+RCA form and other docs don't agree on figures.]"
+Kwethluk Incorporated d/b/a Kuiggluum Kallugvia,Not regulated,1,Private Electric Utility,9832,,2013,,,,,127215,,,53750,,BFL,53750,53780,53750,,616170,4630,621800,11158,504701,88027,603885,,"[accounts_receivable: Center for Economic Development:
+Frop City Balance Sheet Supplement]"
+Kwethluk Incorporated d/b/a Kuiggluum Kallugvia,Not regulated,1,Private Electric Utility,9832,,2016,,227330,,,34559,,,,,BFL,34217,34217,34217,,802282,5280,807562,55282,434031,105342,594665,,"[fuel_stock: Center for Economic Development:
+Inventories on City Balance sheet]"
+Kwethluk Incorporated d/b/a Kuiggluum Kallugvia,Not regulated,1,Private Electric Utility,9832,,2015,,,,,109789.21,,,,,,,,,,709900,5790,715690,11954,509861,112650,634465,,"[sales_revenue: Center for Economic Development:
+RCA form and city P&L don't match]"
+Kwigillingok Power Company,Not regulated,1,Private Electric Utility,10491,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Kwigillingok Power Company,Not regulated,1,Private Electric Utility,10491,,2013,,221767.02,21850.93,0,21850.93,2360430.59,,2690835.23,26037.49,,248580.68,276132.7,2414702.53,,629646.08,1495.87,643749.91,,,134841.71,632679.43,,
+Kwigillingok Power Company,Not regulated,1,Private Electric Utility,10491,,2014,,535561.07,19256.06,,186710.37,2630430.59,,3020917.5,4570.33,,266451.84,273146.08,2747771.42,,669766.66,1388.59,670823.84,,,131512.47,299580.82,,"[repair_and_replace_fund: Center for Economic Development:
+87206.04 - Amount spent last year on R &M]"
+Kwigillingok Power Company,Not regulated,1,Private Electric Utility,10491,,2015,,151255.46,84340.48,,154368.3,2429374.44,,2699830.86,240,,-13226.62,287042.06,2415788.8,,806446,1368,865853.71,58474,,184862.36,848964.67,,
+Larsen Bay Utility Company,Not regulated,1,Public Electric Utility,10716,,2016,,229950,82765,,141799,,-270736,457141,,,45076,45076,412065,,239131,5195,244326,4695,28259,43010,92886,,
+Larsen Bay Utility Company,Not regulated,1,Public Electric Utility,10716,,2013,,,,,,,,,,,,,,,,241005.49,241005,,,18374,39509.86,,
+Larsen Bay Utility Company,Not regulated,1,Public Electric Utility,10716,,2014,,,,,,,,,,,,,,,179373,,179373,62208,61817,23995,87174,,"[repair_and_replace_fund: SC Allen:
+Balance Sheet Checking/Savings;
+
+Harbor R&R: $47264.08], [source_of_debt: SC Allen:
+AEA Power Project Loan; Bulk Fuel Revolving Loan; Payroll liabilities; Sales Tax Payable]"
+Larsen Bay Utility Company,Not regulated,1,Public Electric Utility,10716,,2015,,35417.23,648819,,324606,,-313721,661773,,,,,262583,,,,271883,35457,,,,,"[fuel_stock: SC Allen:
+Fuel Savings Account]"
+Levelock Electrical Coop,Not regulated,1,Electric Co-op,,,2013,,210921,,199.91,222860,,,703032,65554,,,185708,,,194023,38821,232844,3981,160732,7712,405179,,
+Levelock Electrical Coop,Not regulated,1,Electric Co-op,,,2014,,,193513,199.91,210921,,,673685,65407,,,201982,,,195543,10833,206376,6183,120114,120114,132374,,
+Levelock Electrical Coop,Not regulated,1,Electric Co-op,,,2015,,,18621,18621.38,133318,,704706,859425.82,56090,,743919,913673,-54052,,393666,15328,408994,6583,279179,19281,305043,,
+Levelock Electrical Coop,Not regulated,1,Electric Co-op,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Lime Village Electric Utility,Not regulated,1,Public Electric Utility,,,2015,,31614,33941,,65803,,,131358.13,,,,,,,50246,20005,70251,2690,83037,23547,109273,,
+Lime Village Electric Utility,Not regulated,1,Public Electric Utility,,,2013,,23174,3070,,42147,,,68391.18,,,,,,,36848,23352,60200,22404,20139,19886,62428,,
+Lime Village Electric Utility,Not regulated,1,Public Electric Utility,,,2014,,20521,1685,,40994,,,63199.54,,,,,,,78442,19577,98019,164,66487,20612,87263,,
+Lime Village Electric Utility,Not regulated,1,Public Electric Utility,,,2016,,3000,,,,,,3000,,,,,,,69017,,69017,55000,55000,23734,78734,3,
+Manokotak Power Company,Not regulated,1,Private Electric Utility,26317,,2016,,187991,649938,,269497,,4188578,5296004,579,,,100246,2262212,,376242,129546,505788,313214,814004,15280,1330294,,
+Manokotak Power Company,Not regulated,1,Private Electric Utility,26317,,2014,,529168,269482,,187139,,2924329,4164992.24,62531,,,1659107,2346574,,508557,889557,1398418,55138,1275871,13060,1510520,,
+Manokotak Power Company,Not regulated,1,Private Electric Utility,26317,,2015,,307673,338452,,150578,,2704781,3772989,1455279,,,1566564,2388389,,660273,,660273,135110,1229450,1556,1548080,,
+Manokotak Power Company,Not regulated,1,Private Electric Utility,26317,,2013,,541376,366072,,230338,,,1154597,30084,,,254677,2399166,,537101,,537101,36717,20099,,211282,,
+Mcgrath Light & Power,Regulated,1,Private Electric Utility,12119,,2015,,,-27244,,214345,,1066769,1884150,490273,,,1884150,,,,-5490,1727345,266987,-90580,,1505964,5,
+Mcgrath Light & Power,Regulated,1,Private Electric Utility,12119,,2013,,,672039,,302051,,1140672,2791864,545877,,5581,2791864,,,,328030,1757043,303807,4341,,1592179,5,
+Mcgrath Light & Power,Regulated,1,Private Electric Utility,12119,,2014,,,-1877,,218642,,1087120,1982223,491965,,,1982223,,,,9848,1737009,361002,4365,,1596544,4,
+Mcgrath Light & Power,Regulated,1,Private Electric Utility,12119,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Middle Kuskokwim Electric,Regulated,1,Electric Co-op,12485,,2015,,,47332,,170957,,3825965,4271941,199861,,,199714,-138116,,726855,,726855,74498,783339,,942930,,
+Middle Kuskokwim Electric,Regulated,1,Electric Co-op,12485,,2013,,436389,18593,,189260,,4564130,5245080,431006,,,431006,65917,,750836,,750836,83566,1036953,217299,1181470,,
+Middle Kuskokwim Electric,Regulated,1,Electric Co-op,12485,,2014,,,70622,,87127,,4192328,4782315,234789,,,250762,62492,,942713,,942713,115041,778546,,934696,,
+Middle Kuskokwim Electric,Regulated,1,Electric Co-op,12485,,2016,,,29743,,245126,,3879705,4385560,173345,,,172891,301801,,854480,,845480,131459,709442,,916535,,
+Naknek Electric Association,Not regulated,1,Electric Co-op,13201,,2015,,,,,,,,,,,,,,,,,,1128349,2368498.75,452532.49,5855527.12,,"[total_expenditures: SC Allen:
+Total Expenses, excluding fuel used for generation]"
+Naknek Electric Association,Not regulated,1,Electric Co-op,13201,,2013,,,,,,,,,,,,,,,,,,1045936.47,2055967.33,354900.5,5134917.32,,"[total_expenditures: SC Allen:
+Total Expenses, excluding fuel used for generation]"
+Naknek Electric Association,Not regulated,1,Electric Co-op,13201,,2014,,,,,,,,,,,,,,,,,,947835.77,2755518.36,322276.99,6011841.93,,"[total_expenditures: SC Allen:
+Total Expenses, excluding fuel used for generation]"
+Naknek Electric Association,Not regulated,1,Electric Co-op,13201,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Napakiak Ircinraq,Not regulated,1,Private Electric Utility,13211,,2015,,,98925,,24818,,2591332,3181074,19223,,,2644223,536851,,481254,106,481360,51553,266274,65467,464794,,"[repair_and_replace_fund: SC Allen:
+Found in Napakiak Ircinraq Power Co Balance Sheet As sent to BDO (Auditors) As of October 31, 2015.
+
+$98,925]"
+Napakiak Ircinraq,Not regulated,1,Private Electric Utility,13211,,2013,,,17456,,48727,,2829518,3404222,26013,,,56046,3348176,,478462,8851,487313,63901,346532,71449,494482,,
+Napakiak Ircinraq,Not regulated,1,Private Electric Utility,13211,,2014,,,,,,,,,,,,,,,,,,,,,,,
+Napakiak Ircinraq,Not regulated,1,Private Electric Utility,13211,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Napaskiak Electric Utility,Not regulated,1,Private Electric Utility,,,2015,,,126260.22,,,,,125987.22,50,,,29005.72,96981.5,,522239.8,145823.91,668063.71,16639,441431.2,16770,1143216.97,,
+Napaskiak Electric Utility,Not regulated,1,Private Electric Utility,,,2013,,,,,,,,,,,,,,,307181,363194,670375,14228,468425,9269,491992,,
+Napaskiak Electric Utility,Not regulated,1,Private Electric Utility,,,2014,,,,,,,,,,,,,,,369422,365906,735328,11854,391816,12715,391816,,
+Napaskiak Electric Utility,Not regulated,1,Private Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Naterkaq Light Plant (City of Chefornak),Not regulated,1,Private Electric Utility,3422,,2016,,38419,167224,,,,67109,272752,,,30919,30919,241833,,687902,,687902,61017,606360,144325,824632,16,
+Naterkaq Light Plant (City of Chefornak),Not regulated,1,Private Electric Utility,3422,,2013,,12852,238101,,,,44420,295373,,,260000,295373,35373,,683616,,638673,31445,755272,80831,876655,8,"[sales_revenue: Steven Amundson:
+Incluced PCE payment]"
+Naterkaq Light Plant (City of Chefornak),Not regulated,1,Private Electric Utility,3422,,2014,,7920,328325,,,,35314,371559,,,86850,86850,284709,,790185,,790185,37328,517268,71580,635283,7,
+Naterkaq Light Plant (City of Chefornak),Not regulated,1,Private Electric Utility,3422,,2015,,39000,245032,,,,56428,340460,,,70875,73856,266604,,864732,,864732,46099,635051,60380,752990,7,
+Native Village of Perryville,"Regulated, rate exemption",1,Private Electric Utility,14832,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Native Village of Perryville,"Regulated, rate exemption",1,Private Electric Utility,14832,,2013,,,,,,,142571,,,,,142571,142571,,341241,,341241,19893,147518,19102,200670,4,
+Native Village of Perryville,"Regulated, rate exemption",1,Private Electric Utility,14832,,2014,,,,,,,170073,170073,,,,0,170073,,341241,,341241,16599,143802,62310,236755,4,
+Native Village of Perryville,"Regulated, rate exemption",1,Private Electric Utility,14832,,2015,,,,,,,83486,,,,,,,,341241,,341241,34367,55860,87147,177374,,
+Nelson Lagoon Electrical Coop,Not regulated,1,Electric Co-op,13477,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Nelson Lagoon Electrical Coop,Not regulated,1,Electric Co-op,13477,,2013,,,59713,,0,1376,,61089.7,,,,28983.02,32106.68,,280593,,280593,35939,138004,70762,267022,7,"[cash: SC Allen:
+Total Checking/Savings], [employee_count: SC Allen:
+Payroll summary]"
+Nelson Lagoon Electrical Coop,Not regulated,1,Electric Co-op,13477,,2014,,,33001,,,,17916,50917.32,8200,,,8200,42717,,222432,,222432,4773,174607,39702,219083,,
+Nelson Lagoon Electrical Coop,Not regulated,1,Electric Co-op,13477,,2015,,,59713,,,,,61089.7,28983,,,28983,32107,,217508,,217508,3218,148867,69669,221755,,
+"Nikolai, City of",Not regulated,1,Public Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+"Nikolai, City of",Not regulated,1,Public Electric Utility,,,2013,,,,,,,125996,125996,,,,,,,181167,142960,324127,6127,246046,38763,290936,,
+"Nikolai, City of",Not regulated,1,Public Electric Utility,,,2014,,,,,,,110899,110889,,,,,,,180502,137808,318130,7597,250337,29928,287862,,
+"Nikolai, City of",Not regulated,1,Public Electric Utility,,,2015,,,,,,,97819,97819,,,,,,,178063,127336,305399,2771,238239,26112,267122,,
+Nome Joint Utility Systems,Not regulated,1,Private Electric Utility,13642,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Nome Joint Utility Systems,Not regulated,1,Private Electric Utility,13642,,2013,,6158110,1062575,,1590138,,110260925,133145222,3298638,,12506484,30900780,102244442,,11532396,711722,12244118,1176374,8480906,1402104,13353612,,
+Nome Joint Utility Systems,Not regulated,1,Private Electric Utility,13642,,2014,,5734858,548623,,1585633,,107338420,120381135,3480716,,12240945,22842904,97538231,,11361337,575441,11936778,1264633,8408925,1437927,13997703,,
+Nome Joint Utility Systems,Not regulated,1,Private Electric Utility,13642,,2015,,4562659,1160832,,1508089,,101992109,113353972,311743,,14000621,18489901,94864071,,11447168,11988596,11988596,1115966,7191248,1468336,12610675,,[operating_expenses: Center for Economic Development:]
+North Slope Borough Power & Light,Not regulated,1,Public Electric Utility,26616,,2016,,,32050108,,6489,,,32056597,593754,,,593754,,25337394,,,8459696,,,,11540543,30,"[other_subsidies: SC Allen:
+General Obligation Bonds and Premium on issuance of debt], [other_revenue: SC Allen:
+total revenue]"
+North Slope Borough Power & Light,Not regulated,1,Public Electric Utility,26616,,2013,,,,,,,,,,,,,,,,,,,,,,,
+North Slope Borough Power & Light,Not regulated,1,Public Electric Utility,26616,,2014,,,30220150,,47613,,,30267763,1526992,,,1564477,,11213056,,424192,8685325,,,,27650153,29,"[other_subsidies: SC Allen:
+General Obligation Bonds and Premium on issuance of debt], [other_revenue: SC Allen:
+total revenue]"
+North Slope Borough Power & Light,Not regulated,1,Public Electric Utility,26616,,2015,,,21289101,,84887,,,21373988,3706434,,,3707996,,10003133,,266179,8467243,,,,26570359,30,"[other_subsidies: SC Allen:
+General Obligation Bonds and Premium on issuance of debt], [other_revenue: SC Allen:
+total revenue], [total_expenditures: Nolan F Klouda:
+Page 135 of RCA filing for 2015.]"
+Nunam Iqua Electric Company,Not regulated,1,Public Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Nunam Iqua Electric Company,Not regulated,1,Public Electric Utility,,,2013,,170412,51368,,60299,,683258,965338.04,139962,,,141922,823416,,345280,107643,452923,36237,343907,33391,418799,,
+Nunam Iqua Electric Company,Not regulated,1,Public Electric Utility,,,2014,,202982,55533,,28517,,683258,970290.1,158400,,,159880,810410,,356422,78276,434695,41792,327165,48058,431219,,
+Nunam Iqua Electric Company,Not regulated,1,Public Electric Utility,,,2015,,167244,57688,,9432,,1128097,1362461.42,100000,,,101480,1260981,,330204,59468,389672,37181,297240,41611,389836,,
+Nushagak Electric Cooperative,Not regulated,1,Electric Co-op,13870,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Nushagak Electric Cooperative,Not regulated,1,Electric Co-op,13870,,2013,,3280103,-675078,,1239717,,5536037,10775980.51,2980198,,1722021,5243688,5532293,,8070011,289948,8359959,648287,6461733,813285,8491331,,
+Nushagak Electric Cooperative,Not regulated,1,Electric Co-op,13870,,2014,,3031331,-616443,,2082128,,5308750,11315147.18,3673418,,1512662,5699019,5616129,,8195166,308388,8503555,814860,6231151,779694,8412969,,
+Nushagak Electric Cooperative,Not regulated,1,Electric Co-op,13870,,2015,,2908042,-1219585,,1675236,,6264933,10900487.17,2879549,,1336010,4629161,6271326,,8404252,408333,8812586,1104181,5732707,718278,8145094,,
+"Ouzinkie, City of",Not regulated,1,Public Electric Utility,14234,,2016,,,110006,,45099,,49023,7577560.63,152,,,3505,7574056,,176918,58019,234937,14117,98760,84238,205051,,
+"Ouzinkie, City of",Not regulated,1,Public Electric Utility,14234,,2013,,,111757,,75660,120000,79839,267256,764,,,1683,385256.56,44328,195255,185917,381173,15038,265912,78818,359767,,"[other_subsidies: SC Allen:
+Equipment Rental, Office Rental, State of AK Revenue Sharing, Vehicle Rental, Reimbursed Expenses, Interest Income, Change in Investment Acct]"
+"Ouzinkie, City of",Not regulated,1,Public Electric Utility,14234,,2014,,,85423,,32527,70990.74,70990,308940.37,,,,2448.97,306491.98,38538,204140,135660,339799,18692,236924,71926,354260,,"[fixed_assets: SC Allen:
+City of Ouzinkie Balance Sheet June 30, 2014], [total_liabilities: SC Allen:
+2449], [equity: SC Allen:
+City of Ouzinkie Balance Sheet, June 30, 2014], [other_subsidies: SC Allen:
+Donations (received), Equipment Rental (Bucketruck), NSF-redeposit, Power Reserve, State of AK-Revenue Sharing, Uncategorized (misc inc), Change in Investment Account, Interest Income]"
+"Ouzinkie, City of",Not regulated,1,Public Electric Utility,14234,,2015,,,124198,,27242,3508932.85,63054,3656797.43,,,,3529,3653268,,196642,108175,304817,20017,124285,77488,229725,,"[fixed_assets: SC Allen:
+Balance Sheet Total Current Assets 2015]"
+Pedro Bay Village Council,"Regulated, rate exemption",1,Private Electric Utility,14633,,2016,,,736771.36,900328.55,13271.9,,556118,556118,11770.17,,,556118,556118,,159527,,159527,4281,72826,15567,112187,,"[cash: SC Allen:
+Balance Sheet September 2016: Checking General, Checking Payroll, Undeposited Funds-CashDrawer,Chekcing Direct Deposit 2], [repair_and_replace_fund: SC Allen:
+Balance Sheet September 2016
+
+BFF Savings R&R], [accounts_receivable: SC Allen:
+
+Balance Sheet September 2016
+A/R: 143309.53
+
+A/R Electric: 13271.90], [accounts_payable: SC Allen:
+Balance Sheet September 2016]"
+Pedro Bay Village Council,"Regulated, rate exemption",1,Private Electric Utility,14633,,2013,,,35822.23,82.61,30584.62,,614657,614657,310399.96,,,381673.63,614657,,153548,12515,153548,5325,127875,19119,171927,,"[cash: SC Allen:
+
+Balance Sheet As of September 2013
+Checking General, Checking Payroll, Undeposited Funds, Checking Direct Deposit 1 & 2], [repair_and_replace_fund: SC Allen:
+Balance Sheet As of September 2013
+
+BFF Savings R&R], [accounts_receivable: SC Allen:
+A/R: 163656.86
+
+A/R Electric: 30584.62], [accounts_payable: SC Allen:
+Balance Sheet As of September 2013], [total_liabilities: SC Allen:
+Liabilities from Balance Sheet As of September 2017]"
+Pedro Bay Village Council,"Regulated, rate exemption",1,Private Electric Utility,14633,,2014,,,,,,,595144,595144,,,,595144,595144,,152635,,152635,3552,99933,15295,138294,,
+Pedro Bay Village Council,"Regulated, rate exemption",1,Private Electric Utility,14633,,2015,,,664705.41,650126.58,30584.62,,575631,575631,36836.32,,,575631,575631,,160694,35,160729,4413,97755,15611,137291,,"[repair_and_replace_fund: SC Allen:
+BFF Savings R&R], [accounts_receivable: SC Allen:
+A/R: 140009.70
+
+A/R Electric: 30584.62], [accounts_payable: SC Allen:
+Balance Sheet as of September 2015]"
+Pelican Utility,Not regulated,1,Public Electric Utility,29297,,2016,,,,,,,,,,,,,,,167755,73985,241740,31030,28489,117152,177432,,
+Pelican Utility,Not regulated,1,Public Electric Utility,29297,,2013,,22700,60000,1928.56,27972,,240554,356226,,,127750,127800,,,327131,,327131,3406,203904,58675,265985,,"[repair_and_replace_fund: SC Allen:
+General Fund (Debit): R&R]"
+Pelican Utility,Not regulated,1,Public Electric Utility,29297,,2014,,22700,60000,,27972,,240554,356226,,,127750,127800,,,184678,,184678,16685,63369,92570,172624,,
+Pelican Utility,Not regulated,1,Public Electric Utility,29297,,2015,,,,,,,,,,,,,,,,,,,,,,,
+Pilot Point Electric Utility,Not regulated,1,Public Electric Utility,,,2014,,,50727.33,,18438.1,,,69165.43,,fuel,91215,91215,,,175844.5,0,175844.5,7268.08,205327.54,27132.85,239908.47,,"[source_of_debt: SC Allen:
+Refer to Long-term liabilities]"
+Pilot Point Electric Utility,Not regulated,1,Public Electric Utility,,,2013,,,99302.2,,27975.79,,,127277.99,,fuel,77431.5,77431.5,,,198365,0,198365,6562.8,137364.98,17456.5,161384.28,,"[source_of_debt: SC Allen:
+refer to long-tern liabilities]"
+Pilot Point Electric Utility,Not regulated,1,Public Electric Utility,,,2015,,,,,,,292677,292677,,,,292677,292677,247969,139633,247969,397602,15231,235417,85170,361860,,"[other_subsidies: SC Allen:
+AEA PPF Loan]"
+Pilot Point Electric Utility,Not regulated,1,Public Electric Utility,,,2016,,,82499.46,,15380.42,,,97879.88,96597,,,96813,,,212516.4,0,212516.4,2371,165304.18,2644.12,382835.7,,
+Port Heiden Utilities,Not regulated,1,Public Electric Utility,,,2016,,20000,152353,,,,137995,172353,,,,,,,308952,,308952,53997,458058,56978,569033,5,
+Port Heiden Utilities,Not regulated,1,Public Electric Utility,,,2013,,,,,,,,,,,,,,,352588,,352558,16780,425207,78887,527638,17,
+Port Heiden Utilities,Not regulated,1,Public Electric Utility,,,2014,,,67382.25,,1977.17,,,78207.84,,,,-15903.01,543651.66,,337262,,337262,24594,279251,54986,396853,,
+Port Heiden Utilities,Not regulated,1,Public Electric Utility,,,2015,,20000,166106,,,,104318,186106,,,,,186106,,,,349657,22160,,,,4,
+Puvurnaq Power Company,"Regulated, rate exemption",1,Private Electric Utility,,,2015,,186204.77,2473.52,6514.11,189568.89,1513329.41,,1850298.74,12975.65,,,125579.23,1724719.51,,557479,2212,559691,63244,524947,177470,524947,17,"[cash: SC Allen:
+Non-RCA Balance Sheet], [payroll_expenses: SC Allen:
+186096.47 according to 2015 Puvurnaq Power Company-PCE Annual Report Worksheet]"
+Puvurnaq Power Company,"Regulated, rate exemption",1,Private Electric Utility,,,2013,,,,,,,,,,,,,,,472183,1962,474145,62392,399079,196311,657783,,
+Puvurnaq Power Company,"Regulated, rate exemption",1,Private Electric Utility,,,2014,,186204.77,-536.29,2127.73,49080.2,1513329.41,,1685311.79,,,,110536.45,1574775.34,-0.3,438442,23789,462231,68177,332295,20564,421035,,"[other_subsidies: SC Allen:
+Grant Cash]"
+Puvurnaq Power Company,"Regulated, rate exemption",1,Private Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+"Ruby, City of",Not regulated,1,Public Electric Utility,,,2014,,,305367,,74644,,31964,411975.08,15334,,,15334,396641,,261078,105139,366217,66361,248778,32029,363460,4,"[payroll_expenses: SC Allen:
+Profit and Loss Statement of 2013]"
+"Ruby, City of",Not regulated,1,Public Electric Utility,,,2013,,,357683,,8623,,36362,402668.26,17493,,,17493,385176,,339806,132618,472424,66252,234475,76274,377001,3,"[payroll_expenses: SC Allen:
+Personnel Expenses '13]"
+"Ruby, City of",Not regulated,1,Public Electric Utility,,,2015,,,338370,,37018,,32719,408106.75,24004,,,24004,402931,,249369,98830,348119,76099,237163,331423.49,385246,3,"[payroll_expenses: SC Allen:
+Wages in Transaction Detail by Account Sheet], [employee_count: SC Allen:
+Based on the Wages section of the Transaction Detail By Account]"
+"Ruby, City of",Not regulated,1,Public Electric Utility,,,2016,,,334217,406218.92,42843,4097008.46,32719,409778.91,14210,,,14210,426281,,242965,135608,378573,64196,219558,67335.84,357311,13,"[payroll_expenses: SC Allen:
+City of Ruby Transaction Detail By Account], [employee_count: SC Allen:
+City of Ruby Transactions by Account]"
+"Saint George, City of",Not regulated,1,Public Electric Utility,,,2016,,,24262,,,,34450,58712,,,485910,485910,,,412389,0,412389,30620,324970,71626,446569,5,
+"Saint George, City of",Not regulated,1,Public Electric Utility,,,2013,,1000,86094,,,,93088,180182,,,,488355,-308173,,549655,0,549665,27600,392117,127305,580754,8,"[fuel_stock: SC Allen:
+11145], [equity: SC Allen:
+Also marked as -392324]"
+"Saint George, City of",Not regulated,1,Public Electric Utility,,,2014,,,29928,,,306582.4,67714,339327.17,,,,842570.02,-503242.85,,448069,0,448069,17852,416620,78765,513238,5,"[fixed_assets: SC Allen:
+2014 Supplement], [total_assets: SC Allen:
+2014 supplement], [source_of_debt: SC Allen:
+Multiple sources: AEA Grant, APICA Loan, DCRA Bulk Fuel Bridge Loan, Front End Loader Loan, Pat Pletnikof Loan]"
+"Saint George, City of",Not regulated,1,Public Electric Utility,,,2015,,,2889,,,,48361,51250,,,501120,501120,-449870,,486467,0,486467,34890,357924,96821,508989,8,
+Saint Paul Municipal Electric,Not regulated,1,Public Electric Utility,17898,,2014,,,,,303220.24,,,10523993.2,19796.01,,,895362.92,,,2186000,,2105793,258062,1844895,188943,2669758,,"[repair_and_replace_fund: SC Allen:
+$107,812 + $187,788
+
+Power Plant Parts and Supplies and Repairs & Maintenance], [payroll_expenses: SC Allen:
+$291,428], [total_expenditures: SC Allen:
+$837,797]"
+Saint Paul Municipal Electric,Not regulated,1,Public Electric Utility,17898,,2013,,,,,219859,,,10760322.61,12342.06,,,922178.14,,,2117000,,2221240,218316,1602810,137008,2115782,,"[repair_and_replace_fund: SC Allen:
+$52,934 + $97152
+
+Power Plant Parts and Supplies and Repairs & Maintenance], [payroll_expenses: SC Allen:
+$179,759], [total_expenditures: SC Allen:
+$513,352]"
+Saint Paul Municipal Electric,Not regulated,1,Public Electric Utility,17898,,2015,,,,,,,,,,,,,,,2383700,,1953322,158633,1639789,226329,2823154,,"[repair_and_replace_fund: SC Allen:
+$241,845 + $138,355
+
+Power Plant Parts and Supplies and Repairs & Maintenance], [payroll_expenses: SC Allen:
+$356,419], [total_expenditures: SC Allen:
+$875,173], [employee_count: SC Allen:
+Not Available]"
+Saint Paul Municipal Electric,Not regulated,1,Public Electric Utility,17898,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Takotna Community Assoc Inc,Not regulated,1,Public Electric Utility,,,2014,,,,,,,1159109,,,,,,,,182765,0,182765,3549,135680,27264,166941,,"[cash: SC Allen:
+Listed as Total Checking/Savings], [total_utility_plant: SC Allen:
+Power Plant/Bulk Fuel Tank Farm]"
+Takotna Community Assoc Inc,Not regulated,1,Public Electric Utility,,,2016,,,,,,,1159109,,,,,,,,205905.18,,,,105203.12,31214.72,158271.27,,"[total_utility_plant: SC Allen:
+Power Plant/Bulk Fuel Tank Farm]"
+Takotna Community Assoc Inc,Not regulated,1,Public Electric Utility,,,2013,,,,,,,1159109,,,,,,,,197818,40855,238673,2711,149608,35828,192138,,"[total_utility_plant: SC Allen:
+Power Plant/Bulk Fuel Tank Farm]"
+Takotna Community Assoc Inc,Not regulated,1,Public Electric Utility,,,2015,,,,,,,1159109,,,,,,,37000,189409,0,226409,2963,127386,24982,155332,,"[total_utility_plant: SC Allen:
+Power Plant/Bulk Fuel Tank Farm], [other_subsidies: SC Allen:
+CAPSIS Grant]"
+Tanalian Electric Cooperative,Not regulated,1,Public Electric Utility,,,2014,,,,,,,,,,,,,,,,,510344,66324,,,,,
+Tanalian Electric Cooperative,Not regulated,1,Public Electric Utility,,,2016,,14823.95,419944.46,,43511.73,,465472.15,760885.07,,,,554975.35,540773.9,,267084,179507,446591,67985,296975,63472,428702,,"[fuel_stock: SC Allen:
+Fuel Inventory Trial Balance]"
+Tanalian Electric Cooperative,Not regulated,1,Public Electric Utility,,,2013,,65342.09,139454.46,124903.77,38501.82,,332179.24,535006.73,,,,,483998.97,,236261,258971,495232,66159,422297,43000.08,488456,,"[fuel_stock: SC Allen:
+Fuel Inventory], [accounts_payable: SC Allen:
+Balance sheet is there but not organized in the way that it should be when reporting to RCA], [payroll_expenses: SC Allen:
+""Our Coop. Has Contract labor employees.  We are paid according to the following listing below and the pay is divided among the following accounts.""]"
+Tanalian Electric Cooperative,Not regulated,1,Public Electric Utility,,,2015,,8275.85,383847.03,,106253.15,,381220.15,690129.94,,,,557134.19,557134.19,,267359,242985,,,354967,10622,431912,4,"[fuel_stock: SC Allen:
+Fuel Inventory Trial Balance Summary for 2015], [employee_count: SC Allen:
+Based on contract work]"
+Tanana Power Company Inc,Regulated,1,Private Electric Utility,18474,,2014,,,302451,,254067,,183708,1710685,5732,,,1710685,1676527,,729904,5746,729904,117381,744501,,744501,4,
+Tanana Power Company Inc,Regulated,1,Private Electric Utility,18474,,2016,,,1252799,,131458,,232623,1840129,18888,,,1840129,1740024,,729889,-29699,729889,133213,707119,,,4,
+Tanana Power Company Inc,Regulated,1,Private Electric Utility,18474,,2013,,,180914,,310165,,218885,1691896,1405,,,1691896,1658922,,735960,-14826,735960,111615,764396,,764396,4,
+Tanana Power Company Inc,Regulated,1,Private Electric Utility,18474,,2015,,,1065992,,93094,,262799,1860370,75827,,,1860370,1740024,,784367,14586,784367,133829,767002,,767002,4,
+Tatitlek Village Ira Council,Regulated,1,Private Electric Utility,18480,,2015,,10000,18096,,,,450,28546.2,,,,,,,250494,,250494,21121,171477,172870,365571,10,"[total_assets: SC Allen:
+OK, I don't think there are any numbers that add up to having remainders.], [total_liabilities: SC Allen:
+Not available]"
+Tatitlek Village Ira Council,Regulated,1,Private Electric Utility,18480,,2013,,2376,23056,,,,4739,30171.03,,,,,,,294131,,294131,28701,212962,56776,306722,8,
+Tatitlek Village Ira Council,Regulated,1,Private Electric Utility,18480,,2014,,,21703,,0,,554,22256.77,0,,,,,,247351,,247351,12540,189999,59893,262433,8,"[accounts_receivable: SC Allen:
+2014 Trial Balance], [accounts_payable: SC Allen:
+2014 Trial Balance]"
+Tatitlek Village Ira Council,Regulated,1,Private Electric Utility,18480,,2016,,,,,,,,,,,,,,,,,,,,,,,
+"Tenakee Springs, City of",Not regulated,1,Public Electric Utility,18541,,2015,,,289718,337761.6,24731,,22393,387026.8,0,,,1550,385477,,148973,96192,245165,15739,149531,48930,214200,,"[repair_and_replace_fund: SC Allen:
+Additional Balance sheet FY 15]"
+"Tenakee Springs, City of",Not regulated,1,Public Electric Utility,18541,,2013,,,207430,,42384,,15278,315268.73,565,,,2065,313203,,158559,138801,297360,26237,166443,42315,234995,,
+"Tenakee Springs, City of",Not regulated,1,Public Electric Utility,18541,,2014,,,249129,,21491,,13142,346771.88,0,,,1600,345172,,139908,101689,241597,10963,149321,47210,207494,,
+"Tenakee Springs, City of",Not regulated,1,Public Electric Utility,18541,,2016,,,324273,,33746,,19364,427622.59,0,,,1650,425973,,157302,83805,241107,32117,129862,46788,208767,,
+Tuluksak Traditional,"Regulated, rate exemption",1,Private Electric Utility,,,2015,,127990.57,-180347.73,,,,,-107677.78,,Bulk fuel loan,-19474.2,-1226775.12,1580514,,435434,0,435434,17697,119188,72482,229367,,
+Tuluksak Traditional,"Regulated, rate exemption",1,Private Electric Utility,,,2016,,,,,,,,,,,,,,,438201,,438201,17841,208412,63584,305184,,
+Tuluksak Traditional,"Regulated, rate exemption",1,Private Electric Utility,,,2013,,,,,,,,,,,,,,,371751,0,371751,18646,249048,55308,323002,,
+Tuluksak Traditional,"Regulated, rate exemption",1,Private Electric Utility,,,2014,,,451686.66,6335.76,-7174.76,-8334,,843546.01,4384.81,,101605.67,509928.02,333617.99,,501220,0,501220,19769,76771,71759,168298,,
+Tuntutuliak Community,"Regulated, rate exemption",1,Electric Co-op,19267,,2014,,147588.41,121815.84,1500,41325.97,,,381815.55,281913.93,BFL,62463.29,540937.77,-159122.22,,570428,29294,599722,38081,377131,159231,574380,,"[fuel_stock: SC Allen:
+Fuel purchase Trial Balance 2014], [source_of_debt: SC Allen:
+Wells Fargo 2013 and 2014 loans; AEA 2013 Loan; AEA loan #40904252; Bulk Fuel Loan]"
+Tuntutuliak Community,"Regulated, rate exemption",1,Electric Co-op,19267,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Tuntutuliak Community,"Regulated, rate exemption",1,Electric Co-op,19267,,2013,,,13264.87,,44742.7,,,266970.73,30259.55,BFL,78651.98,159817.57,107153.16,,571743,11784,583527,38267,431715,149472,619454,,"[source_of_debt: SC Allen:
+AEA 2013 Loan; AEA Loan #40904452; Bulk Fuel Loan]"
+Tuntutuliak Community,"Regulated, rate exemption",1,Electric Co-op,19267,,2015,,17935,70642.96,2678.39,47548.63,,,339440.91,179323.84,BFL,51670.83,408831.82,-69390.91,,628800,44583,673383,44258,383554,170911,598723,,"[fuel_stock: SC Allen:
+Fuel Purchas Trial Balance], [source_of_debt: SC Allen:
+Wells Fargo 2013 and 2014 loans; AEA 2013 Loan; AEA loan #40904252; Bulk Fuel Loan]"
+Twin Hills Village Council,Not regulated,1,Private Electric Utility,,,2014,,3930,118798,,63451,,1396,187574.68,,Bulk fuel loan,,,187575,,245635,18936,245635,471,137379,17978,157224,,"[source_of_debt: SC Allen:
+Trial Balance
+
+Totalling $126,627.37
+
+In addition, there are Payroll liabilities owed to CSSD, Federal, and Sate]"
+Twin Hills Village Council,Not regulated,1,Private Electric Utility,,,2016,,2590,122816,,61059,,,186464.97,,Bulk fuel loan,,,186465,,171314,40079,211393,39,80916,18703,99658,,"[source_of_debt: SC Allen:
+$18,962.44 debit]"
+Twin Hills Village Council,Not regulated,1,Private Electric Utility,,,2013,,8000,93499,,52463,,4193,158154.91,,,,70614.82,158155,,184892,11750,196642,549,149276,19603,173621,,"[source_of_debt: SC Allen:
+$61,615.56], [total_liabilities: SC Allen:
+Separtate Balance Sheet December 27, 2013]"
+Twin Hills Village Council,Not regulated,1,Private Electric Utility,,,2015,,2832,97544,,74414,,0,174791.06,,Bulk fuel Loan,,,174791,,233788,10396,244184,39,79703,18852,98594,,"[source_of_debt: SC Allen:
+$116,226.41]"
+Umnak Power Company,Not regulated,1,Private Electric Utility,,,2014,,,96820,,11017,,25495,133332,,,,,133332,,128133,74,128207,4431,121657,12998,144591,,
+Umnak Power Company,Not regulated,1,Private Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Umnak Power Company,Not regulated,1,Private Electric Utility,,,2013,,,18249,,13243,,31000,62492.86,,,,,62493,,125887,95,125982,57252,144079,13324,221426,,
+Umnak Power Company,Not regulated,1,Private Electric Utility,,,2015,,,140226,,10873,,24252,175352.08,,,,,189715,,157200,119,157200,2952,151940,11743,171682,,
+Unalakleet Valley Electric Cooperative,Regulated,1,Electric Co-op,40548,,2014,,1023309,594865,,361595,,843365,3306798,7085,,574739,610596,2696202,,1764924,153401,1918325,363389,952425,306052,1820202,,
+Unalakleet Valley Electric Cooperative,Regulated,1,Electric Co-op,40548,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Unalakleet Valley Electric Cooperative,Regulated,1,Electric Co-op,40548,,2013,,1013019,547577,,357505,,1028409,3301057,10780,,646477,702938,2598119,,1642357,52467,1694825,300391,977264,300089,1767366,,
+Unalakleet Valley Electric Cooperative,Regulated,1,Electric Co-op,40548,,2015,,833318,946595,,124116,,881428,3591542.05,17139,,550134,621881,2969661,,1797579,192252,1989831,404364,932777,1989831,1717433,,
+"Unalaska, City of",Not regulated,1,Public Electric Utility,19454,,2014,,,1376717.98,,-10000,,,58959254.37,-284832.51,,,-28365437.82,,,,,,,,2589331.72,57842719.44,,"[cash: SC Allen:
+General Rec]"
+"Unalaska, City of",Not regulated,1,Public Electric Utility,19454,,2016,,,780727.95,,-10000,,,70267884.76,-254668.44,,,-30873841.86,,,,,,,,2693407.31,14014463.59,,"[cash: SC Allen:
+General Rec]"
+"Unalaska, City of",Not regulated,1,Public Electric Utility,19454,,2013,,,1497388.27,,-10000,,,94273237.24,-313471.67,,,-32759919.01,,,,,,,,2483524.54,19728119.41,,"[cash: SC Allen:
+General Rec]"
+"Unalaska, City of",Not regulated,1,Public Electric Utility,19454,,2015,,,879463.32,,-10000,,,62474060.99,-213680.45,,,-30019494.04,,,,,,,,3025153.91,15816224.67,,"[cash: SC Allen:
+General Rec]"
+Ungusraq Power Company,Not regulated,1,Private Electric Utility,,,2014,,,,,,,,,,,,,,,,,,,,,,,
+Ungusraq Power Company,Not regulated,1,Private Electric Utility,,,2013,,53555,4122,,31627,,42284,131588,,,,,98910,,335664,,335664,13456,233146,103400,362231,,
+Ungusraq Power Company,Not regulated,1,Private Electric Utility,,,2015,,30817,15749,,20053,,20840,87459.36,,,,,147067,,157386,,157386,3154,201358,16550,223065,,
+Ungusraq Power Company,Not regulated,1,Private Electric Utility,,,2016,,,,,,,,,,,,,,,,,,,,,,,
+Venetie Village Electric,"Regulated, rate exemption",1,Private Electric Utility,,,2013,,,,,,,30844,30844,,,,,30844,,393980,,393980,13940,393777,66569,478912,12,"[total_assets: SC Allen:
+Funny how assets are listed and yet not broken down]"
+Venetie Village Electric,"Regulated, rate exemption",1,Private Electric Utility,,,2014,,,178753,,,,18507,201886,,,,,,,313441,,313441,23878,380774,77665,486943,6,
+Venetie Village Electric,"Regulated, rate exemption",1,Private Electric Utility,,,2015,,5000,,,158530,,13881,163530,,,,,-13881,,427175,,427175,51707,262977,82592,401901,5,
+Venetie Village Electric,"Regulated, rate exemption",1,Private Electric Utility,,,2016,,4000,,,2991,,9255,6991,,,,,,,450629,,450629,28055,297680,110500,463314,7,
+"White Mountain, City of",Not regulated,1,Public Electric Utility,20535,,2013,,,,15006.49,,,,,,,,,,,437063,49108,486171,16620,243744,93370,357211,,"[accounts_receivable: SC Allen:
+Unknown for Electric Utility]"
+"White Mountain, City of",Not regulated,1,Public Electric Utility,20535,,2014,,,,30014.59,,,,,,,,,,,433461,29747,463208,23774,281884,106373,412032,,"[accounts_receivable: SC Allen:
+Unknown for Electric Utility]"
+"White Mountain, City of",Not regulated,1,Public Electric Utility,20535,,2015,,,,30022.85,,,,,,,,,,,425022,10989,436011,15845,315711,101144,432700,,"[cash: SC Allen:
+Also included in Checking/Savings s the Electric R&R fund for the city of White Mountain], [accounts_receivable: SC Allen:
+Unknown for Electric Utility]"
+"White Mountain, City of",Not regulated,1,Public Electric Utility,20535,,2016,,,,200008.71,,,,,,,,,,,383333,46804,430137,18839,255847,97653,372390,,"[repair_and_replace_fund: SC Allen:
+This one is marked Utilities Savings
+
+Water Utility R&R Fund: $36,031.45], [accounts_receivable: SC Allen:
+Unknown for Electric Utility]"
+Yakutat Power Inc,Not regulated,1,Public Electric Utility,30150,,2013,,170061,371974,,510069,,5683656,7278153,190401,,203727,1180629,6097524,,2768614,39178,2807792,141302,2012399,750313,3224666,,
+Yakutat Power Inc,Not regulated,1,Public Electric Utility,30150,,2015,,132680,136494,,483235,,5629718,6837168,155541,,119807,672236,6164932,,2601546,122895,2724441,151626,1581704,738257,2804283,,
+Yakutat Power Inc,Not regulated,1,Public Electric Utility,30150,,2016,,124315,123403,,574722,,5310942,6677627,302441,,120271,734400,5943227,,2023908,51938,2075846,190932,2294644,592092,2294644,,
+Yakutat Power Inc,Not regulated,1,Public Electric Utility,30150,,2014,,173714,162267,,352373,,5818242,7152234,213284,,162668,907459,6244775,,2790231,71537,2861768,131859,1923429,787163,3159733,,
